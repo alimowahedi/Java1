@@ -19,5 +19,7 @@ public class Sample
     }
 }
 
-grace***
+grace**
+
+System.exit(0);
 
